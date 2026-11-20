@@ -7,7 +7,7 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
         int unit;
-        float bill=0;
+        double bill=0;
         Scanner sc = new Scanner(System.in);
         unit = sc.nextInt();
         if(unit<=100){
